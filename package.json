@@ -1,0 +1,19 @@
+{
+  "name": "npm-learning-moment",
+  "version": "1.0.0",
+  "description": "As a junior I'm currently learning what is, and how to use npm. So I'm experimenting by myself what is it",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Delgorithm/npm-learning.git"
+  },
+  "author": "Delgorithm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Delgorithm/npm-learning/issues"
+  },
+  "homepage": "https://github.com/Delgorithm/npm-learning#readme"
+}
