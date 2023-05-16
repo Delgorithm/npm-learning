@@ -10,6 +10,7 @@ var myList = [1,2,1,1,1,3,3,6,5,5,3,4,6];
 var myUniqueList = unique(myList);
 
 console.log(myUniqueList);
+console.log(myCurrentDate);
 },{"moment":2,"uniq":3}],2:[function(require,module,exports){
 //! moment.js
 //! version : 2.29.4
